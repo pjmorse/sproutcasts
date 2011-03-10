@@ -1,0 +1,11 @@
+# sproutcasts.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
+abstract -v1.0.0
+daemons -v1.1.0
+erubis -v2.6.6
+eventmachine -v0.12.10
+extlib -v0.9.15
+json_pure -v1.4.6
+rack -v1.2.1
+sproutcore -v1.4.5
+thin -v1.2.8
+thor -v0.14.6
